@@ -1,0 +1,4 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: tld.example.plugin.Main
+api-version: 1.16
